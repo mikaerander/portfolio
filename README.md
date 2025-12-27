@@ -9,43 +9,18 @@ Finance and business process professional with strong experience in process digi
 
 ---
 
-## 📚 Tutkimusprojektit (JYU)
-- **Tutkimussuunnitelma XYZ** – Kuvaus projektista ja tavoitteista.  
-  [PDF / Repo linkki]
-
-- **Kirjallisuuskatsaus ABC** – Kuvaus analyysimenetelmästä ja löydöksistä.  
-  [PDF / Repo linkki]
-
----
-
 ## 🌐 IoT-projektit (JYU TEKS4440)
-- **IoT-lämpötila-anturi**  
-  ![Kuva prototyypistä](kuva.png)  
+- **IoT**  
   [GitHub repo](linkki)  
 
-- **IoT-dashboard / käyttöliittymä**  
+
+---
+
+- **Python + IoT integroitu projekti**
   Kuvaus datan keruusta ja analyysista.  
   [GitHub repo](linkki)
 
 ---
 
-## 🐍 Python-projektit (Metropolia)
-- **Data-analyysi Pythonilla**  
-  - Datasetin lähde ja analyysimenetelmä  
-  - Kaaviot ja johtopäätökset  
-  [GitHub repo](linkki)
-
-- **Automaatioskripti**  
-  Lyhyt kuvaus projektin tavoitteesta ja toiminnasta.  
-  [GitHub repo](linkki)
-
-- **Python + IoT integroitu projekti** (tuleva)  
-  Kuvaus datan keruusta ja analyysista.  
-  [GitHub repo](linkki)
-
----
-
-## 🔜 Tulevat projektit
-- Python ja IoT -projektien jatko  
 - Data-analyysit ja visualisoinnit kurssien aikana  
 - Tutkimusasetelmien harjoitustyöt
