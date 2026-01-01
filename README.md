@@ -19,7 +19,7 @@ Analytical and motivated higher education student with combined expertise in fin
 
 ### Business Analysis / Power BI
 - Course project focused on business analysis and interactive data visualization using Power BI.  
-- Related files and dashboards stored in the folder: [View Power BI Projects](./powerbi)  
+- Related files and dashboards stored in the folder: [View Power BI Projects](./powerbi)
 
   
 ## Work Experience (Selected)
