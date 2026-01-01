@@ -53,8 +53,3 @@ Analytical and motivated higher education student with combined expertise in fin
 **ICT Skills:** Microsoft 365, Apotti, Dynamics NAV 2015, SAP ERP, Power BI, Procountor, Netvisor, Python, Java, JavaScript, SQL  
 
 
-## References
-
-**Hanna Kuikka** – CFO, Valtori  
-hanna.kuikka@valtori.fi | +358 40 3154362
-
