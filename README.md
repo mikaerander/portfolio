@@ -11,16 +11,16 @@ Analytical and motivated higher education student with combined expertise in fin
 
 ### IoT Systems
 - Projects involving IoT devices, sensors, and small automation scripts using Arduino and Python.  
-[View IoT Projects](./iot)
+- Related files stored in the folder: [View IoT Projects](./iot)
 
 ### Python Programming
 - Advanced Python projects including data processing, GUI applications, and automation scripts.  
-[View Python Projects](./python)
+- Related files stored in the folder: [View Python Projects](./python)
 
 ### Business Analysis / Power BI
 - Course project focused on business analysis and interactive data visualization using Power BI.  
 - Related files and dashboards stored in the folder: [View Power BI Projects](./powerbi)
-
+  
   
 ## Work Experience (Selected)
 
