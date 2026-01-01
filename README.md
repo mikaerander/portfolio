@@ -33,7 +33,8 @@ Analytical and motivated higher education student with combined expertise in fin
 - Worked on invoice automation, reconciliations, and vendor communication  
 
 **PwC, Audit Trainee** (Nov 2021 – Jan 2022)  
-- Assisted KHT auditors with audits of client financial statements  
+- Assisted KHT auditors with audits of client financial statements
+
 
 ## Education
 
@@ -42,10 +43,12 @@ Analytical and motivated higher education student with combined expertise in fin
 - **Metropolia University of Applied Sciences**, 2025–present – B.Eng. Industrial Engineering  
 - **LUT University**, 2022 – Master of Science in Accounting  
 
+
 ## Skills
 
 **Languages:** Finnish (native), English (good), Swedish (basic), German (beginner)  
 **ICT Skills:** Microsoft 365, Apotti, Dynamics NAV 2015, SAP ERP, Power BI, Procountor, Netvisor, Python, Java, JavaScript, SQL  
+
 
 ## References
 
