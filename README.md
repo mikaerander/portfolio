@@ -44,7 +44,7 @@ Advanced Python projects including data processing, GUI applications, and automa
 ## Skills
 
 **Languages:** Finnish (native), English (good), Swedish (basic), German (beginner)  
-**ICT Skills:** Microsoft 365, Apotti, Dynamics NAV 2015, SAP ERP, Power BI (basic), Procountor (basic), Netvisor (basic), Python (basic), JavaScript (basic), SQL (basic)  
+**ICT Skills:** Microsoft 365, Apotti, Dynamics NAV 2015, SAP ERP, Power BI, Procountor, Netvisor, Python, Java, JavaScript, SQL  
 
 ## References
 
