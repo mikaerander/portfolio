@@ -22,7 +22,7 @@ Advanced Python projects including data processing, GUI applications, and automa
 
 ## Work Experience (Selected)
 
-**City of Helsinki, Sotepe** – Hallintoassistentti (Nov–Dec 2024)  
+**City of Helsinki, Sotepe** – Administrative Assistant (Nov–Dec 2024)  
 - Managed customer payments in Apotti system, created internal instructions, and organized transport tickets  
 
 **City of Helsinki Audit Department** – Auditor / Intern (Jun–Aug 2023)  
