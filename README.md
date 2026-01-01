@@ -8,15 +8,15 @@ Analytical and motivated higher education student with combined expertise in fin
 
 ## Courses & Projects
 
-### Web-julkaiseminen
+### Web design
 Projects related to web publishing, including HTML, CSS, and JavaScript exercises.  
 [View Web Projects](./web)
 
-### IoT-järjestelmät (5 ECTS)
+### IoT Systems
 Projects involving IoT devices, sensors, and small automation scripts using Arduino and Python.  
 [View IoT Projects](./iot)
 
-### Python-ohjelmoinnin jatkokurssi
+### Python Programming
 Advanced Python projects including data processing, GUI applications, and automation scripts.  
 [View Python Projects](./python)
 
