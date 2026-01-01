@@ -28,10 +28,10 @@ Advanced Python projects including data processing, GUI applications, and automa
 
 ## Work Experience (Selected)
 
-**Helsingin kaupunki, Sotepe** – Hallintoassistentti (Nov–Dec 2024)  
+**City of Helsinki, Sotepe** – Hallintoassistentti (Nov–Dec 2024)  
 - Managed customer payments in Apotti system, created internal instructions, and organized transport tickets  
 
-**Helsingin kaupungin tarkastusvirasto** – Auditor / Intern (Jun–Aug 2023)  
+**City of Helsinki Audit department** – Auditor / Intern (Jun–Aug 2023)  
 - Assisted with audits, internal controls, and financial inspections  
 
 **Valtori, Government ICT Center** – Intern (Jun–Oct 2022)  
@@ -44,7 +44,7 @@ Advanced Python projects including data processing, GUI applications, and automa
 
 ## Education
 
-- **Jyväskylän yliopisto**, 2025–present – MSc Computer Science (IoT, Wireless Sensor Networks, Cloud)  
+- **University of Jyväskylä**, 2025–present – MSc Computer Science (IoT, Wireless Sensor Networks, Cloud)  
 - **Laurea University of Applied Sciences**, 2026 – Bachelor of Business Administration, Digital Services  
 - **Metropolia University of Applied Sciences**, 2025–present – B.Eng. Industrial Engineering  
 - **LUT University**, 2022 – Master of Science in Accounting  
