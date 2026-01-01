@@ -19,8 +19,10 @@ Analytical and motivated higher education student with combined expertise in fin
 
 ### Business Analysis / Power BI
 - Course project focused on business analysis and interactive data visualization using Power BI.  
-- Related files and dashboards stored in the folder: [View Power BI Projects](./powerbi) 
+- Related files and dashboards stored in the folder: [`./powerbi`](./powerbi)  
+- Dashboard to be added.
 
+  
 ## Work Experience (Selected)
 
 **City of Helsinki, Sotepe** – Administrative Assistant (Nov–Dec 2024)  
