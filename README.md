@@ -7,6 +7,7 @@
 Analytical and motivated higher education student with combined expertise in finance and computer science. Experienced in finance, auditing, and system-based work in both public and private sectors. Passionate about data and analytics, particularly data warehousing, SQL-based processing, and ETL/ELT workflows in financial environments.
 
 
+
 ## Courses & Projects
 
 ### IoT Systems
@@ -20,6 +21,7 @@ Analytical and motivated higher education student with combined expertise in fin
 ### Business Analysis / Power BI
 - Course project focused on business analysis and interactive data visualization using Power BI.  
 - Related files and dashboards stored in the folder: [View Power BI Projects](./powerbi)
+
   
   
 ## Work Experience (Selected)
