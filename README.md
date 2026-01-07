@@ -4,8 +4,7 @@
 
 ## About Me
 
-Analytical and motivated higher education student with combined expertise in finance and computer science. Experienced in finance, auditing, and system-based work in both public and private sectors. Passionate about data and analytics, particularly data warehousing, SQL-based processing in financial environments.
-
+Analytical and motivated higher education student with combined expertise in finance and computer science. Practical experience in financial management, auditing, and system-driven operations across both public and private sectors. Particularly interested in data, analytics, and the development of financial processes.
 
 
 ## Courses & Projects
@@ -30,7 +29,7 @@ Analytical and motivated higher education student with combined expertise in fin
 - Managed customer payments in Apotti system, created internal instructions, and organized transport tickets  
 
 **City of Helsinki Audit Department** – Auditor / Intern (Jun–Aug 2023)  
-- Assisted with audits, internal controls, and financial inspections  
+- Audits, internal controls, and financial inspections  
 
 **Valtori, Government ICT Center** – Intern (Jun–Oct 2022)  
 - Worked on invoice automation, reconciliations, and vendor communication  
@@ -41,10 +40,11 @@ Analytical and motivated higher education student with combined expertise in fin
 
 ## Education
 
-- **University of Jyväskylä**, 2025–present – MSc Computer Science (IoT, Wireless Sensor Networks, Cloud)  
-- **Laurea University of Applied Sciences**, 2026 – Bachelor of Business Administration, Digital Services  
-- **Metropolia University of Applied Sciences**, 2025–present – B.Eng. Industrial Engineering  
+- **University of Jyväskylä**, 2025–present – MSc Computer Science (IoT, Wireless Sensor Networks, Cloud)
+- **Laurea University of Applied Sciences**, 2026 – Bachelor of Business Administration, Digital Services
 - **LUT University**, 2022 – Master of Science in Accounting  
+- **Metropolia University of Applied Sciences**, 2025–present – B.Eng. Industrial Engineering  
+
 
 
 ## Skills
