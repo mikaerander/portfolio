@@ -27,22 +27,21 @@ Analytical and motivated higher education student with combined expertise in fin
 ## Work Experience
 
 **City of Helsinki Audit Department** – Auditor *(Jun 2023 – Aug 2023)*  
-- Conducted audits, internal control assessments, and financial inspections under city auditors’ supervision  
+- Conducted audits and financial inspections under city auditors’ supervision  
 - Evaluated municipal objectives, efficiency, and compliance  
-- Audited administration, assets, and purchase invoices  
+- Audited administration and purchase invoices  
 
 **City of Helsinki, Sotepe** – Administrative Assistant *(Nov 2024 – Dec 2024)*  
 - Managed customer payments and payment commitments in the Apotti system  
 - Developed internal process instructions as part of a project team  
-- Organized train and bus tickets for clients  
 
 **Valtori, Government ICT Center** – Intern *(Jun 2022 – Oct 2022)*  
-- Identified invoices suitable for automation and performed account coding and reconciliations  
+- Invoice automation 
 - Calculated annual budgets for automated invoicing and monitored invoice processing  
 - Communicated with vendors and handled financial administration tasks in the Handi system  
 
 **PwC** – Audit Trainee *(Nov 2021 – Jan 2022)*  
-- Assisted KHT auditors in auditing client financial statements  
+- Assisted auditing client financial statements  
 - Reviewed revenues, expenses, and official records; supported audit procedures  
 
 **Oy Tuokko Ltd** – Audit Trainee *(Jan 2020 – Feb 2020)*  
@@ -78,7 +77,6 @@ Analytical and motivated higher education student with combined expertise in fin
 - **Metropolia University of Applied Sciences**, 2025–present – B.Eng. in Industrial Engineering  
   *Focus on process optimization, production systems, and data-driven decision making*  
   *Skills in analytics, workflow automation, and operational efficiency*
-
 
 
 
