@@ -63,10 +63,22 @@ Analytical and motivated higher education student with combined expertise in fin
 
 ## Education
 
-- **University of Jyväskylä**, 2025–present – MSc Computer Science (IoT, Wireless Sensor Networks, Cloud)
-- **Laurea University of Applied Sciences**, 2026 – Bachelor of Business Administration, Digital Services
+- **University of Jyväskylä**, 2025–present – MSc in Computer Science  
+  *Specialization: IoT, Wireless Sensor Networks, Cloud Computing*  
+  *Focus on data-driven solutions, distributed systems, and cloud-based applications*
+
+- **Laurea University of Applied Sciences**, Expected 2026 – Bachelor of Business Administration, Digital Services  
+  *Focus on Information Systems, Data Management, and Digital Service Development*  
+  *Practical skills in system-based workflows, digital processes, and service optimization*
+
 - **LUT University**, 2022 – Master of Science in Accounting  
-- **Metropolia University of Applied Sciences**, 2025–present – B.Eng. Industrial Engineering  
+  *Major: Accounting | Minor: Corporate Law*  
+  *Emphasis on financial reporting, auditing, management accounting, and corporate law principles*
+
+- **Metropolia University of Applied Sciences**, 2025–present – B.Eng. in Industrial Engineering  
+  *Focus on process optimization, production systems, and data-driven decision making*  
+  *Skills in analytics, workflow automation, and operational efficiency*
+
 
 
 
