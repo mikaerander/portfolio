@@ -7,6 +7,7 @@
 Analytical and motivated higher education student with combined expertise in finance and computer science. Practical experience in financial management, auditing, and system-driven operations across both public and private sectors. Particularly interested in data, analytics, and the development of financial processes.
 
 
+
 ## Courses & Projects
 
 ### IoT Systems
@@ -22,8 +23,6 @@ Analytical and motivated higher education student with combined expertise in fin
 - Related files and dashboards stored in the folder: [View Power BI Projects](./powerbi)
 
   
-  
-## Work Experience (Selected)
 
 ## Work Experience
 
@@ -59,6 +58,7 @@ Analytical and motivated higher education student with combined expertise in fin
 - Entered sales orders and invoices into the ERP system  
 - Created new product entries and managed purchase and sales ledgers  
 - Translated product information into English
+
 
 
 ## Education
