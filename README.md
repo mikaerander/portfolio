@@ -25,17 +25,40 @@ Analytical and motivated higher education student with combined expertise in fin
   
 ## Work Experience (Selected)
 
-**City of Helsinki, Sotepe** – Administrative Assistant (Nov–Dec 2024)  
-- Managed customer payments in Apotti system, created internal instructions, and organized transport tickets  
+## Work Experience
 
-**City of Helsinki Audit Department** – Auditor / Intern (Jun–Aug 2023)  
-- Audits, internal controls, and financial inspections  
+**City of Helsinki Audit Department** – Auditor *(Jun 2023 – Aug 2023)*  
+- Conducted audits, internal control assessments, and financial inspections under city auditors’ supervision  
+- Evaluated municipal objectives, efficiency, and compliance  
+- Audited administration, assets, and purchase invoices  
 
-**Valtori, Government ICT Center** – Intern (Jun–Oct 2022)  
-- Worked on invoice automation, reconciliations, and vendor communication  
+**City of Helsinki, Sotepe** – Administrative Assistant *(Nov 2024 – Dec 2024)*  
+- Managed customer payments and payment commitments in the Apotti system  
+- Developed internal process instructions as part of a project team  
+- Organized train and bus tickets for clients  
 
-**PwC, Audit Trainee** (Nov 2021 – Jan 2022)  
-- Assisted KHT auditors with audits of client financial statements
+**Valtori, Government ICT Center** – Intern *(Jun 2022 – Oct 2022)*  
+- Identified invoices suitable for automation and performed account coding and reconciliations  
+- Calculated annual budgets for automated invoicing and monitored invoice processing  
+- Communicated with vendors and handled financial administration tasks in the Handi system  
+
+**PwC** – Audit Trainee *(Nov 2021 – Jan 2022)*  
+- Assisted KHT auditors in auditing client financial statements  
+- Reviewed revenues, expenses, and official records; supported audit procedures  
+
+**Oy Tuokko Ltd** – Audit Trainee *(Jan 2020 – Feb 2020)*  
+- Performed supporting audit tasks and maintained client communication  
+- Checked purchases and other expenses, verified accruals, and issued balance confirmation requests  
+
+**Wihuri Oy Aarnio** – Billing Assistant *(Jun 2019 – Jul 2019)*  
+- Checked and processed purchase invoices for Aarnio Metro wholesale and K3 logistics center  
+- Maintained vendor communication and recorded invoices  
+- Utilized SAP and Excel skills; required professional English proficiency  
+
+**Conwe Oy** – Finance Intern *(Jan 2016 – May 2016)*  
+- Entered sales orders and invoices into the ERP system  
+- Created new product entries and managed purchase and sales ledgers  
+- Translated product information into English
 
 
 ## Education
