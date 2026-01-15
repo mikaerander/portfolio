@@ -66,7 +66,7 @@ Analytical and motivated higher education student with combined expertise in fin
   *Specialization: IoT, Wireless Sensor Networks, Cloud Computing*  
   *Focus on data-driven solutions, distributed systems, and cloud-based applications*
 
-- **Laurea University of Applied Sciences**, Expected 2026 – Bachelor of Business Administration, Digital Services  
+- **Laurea University of Applied Sciences**, Expected 2026 – Bachelor of Business Administration, Developing Digital Services  
   *Focus on Information Systems, Data Management, and Digital Service Development*  
   *Practical skills in system-based workflows, digital processes, and service optimization*
 
